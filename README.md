@@ -1,3 +1,10 @@
-# hello-world
-meu nome e Eriton estou iniciando no estudo de programaçao em python e gostaria de aprender novos codigos 
-na area de games e app sou iniciante nao sei nada direito ainda
+# jogo blackjack
+# embaralhar cartas
+import random
+
+playing = False
+chip_pool = 100
+
+bet = 1
+
+restart_phrase = "Press 'd' to shuffle again or press 'q' to leave."
